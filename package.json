@@ -1,0 +1,8 @@
+{
+  "name": "chopmates",
+  "version": "1.0.0",
+  "description": "Peer-to-peer food sharing platform for Nigeria.",
+  "scripts": {
+    "start": "echo 'Run via Hostinger Horizon or connect frontend here.'"
+  }
+}
